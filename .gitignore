@@ -1,0 +1,7 @@
+hardware/cls_proj_demo
+software/*
+!software/CLS_demo
+software/CLS_demo/*
+!software/CLS_demo/src
+software/CLS_demo/src/Xilinx.spec
+software/CLS_demo/src/lscript.ld
